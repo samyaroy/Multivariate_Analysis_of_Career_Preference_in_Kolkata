@@ -1,0 +1,16 @@
+# Python packages
+
+gspread
+google-auth
+fuzzywuzzy
+pandas
+numpy
+seaborn
+matplotlib
+pingouin
+torch
+fpdf
+scipy
+scikit-posthocs
+statsmodels
+scikit-learn
